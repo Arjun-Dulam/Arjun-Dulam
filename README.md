@@ -16,3 +16,5 @@ Currently learning more about ML.
 - **LeetCode**: [leetcode.com/u/adulam](https://leetcode.com/u/adulam)  
 
 Feel free to reach out for collaboration, questions, or just to connect!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-Dulam)](https://github.com/anuraghazra/github-readme-stats)
