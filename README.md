@@ -17,4 +17,4 @@ Currently learning more about ML.
 
 Feel free to reach out for collaboration, questions, or just to connect!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-Dulam)](https://github.com/anuraghazra/github-readme-stats)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-Dulam&show_icons=true&theme=transparent)
