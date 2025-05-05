@@ -1,6 +1,6 @@
 # Arjun-Dulam 
 
-Hi there! 👋!
+Hi there! 👋
 
 My name's Arjun, and I'm a second year undergraduate student at Georgia Tech studying CS. My concentrations are Systems & Architecture and Modelling & Simulation.
 
