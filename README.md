@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-My name's Arjun, and I'm a second year undergraduate student at Georgia Tech studying CS. My concentrations are Systems & Architecture and Modelling & Simulation.
+My name's Arjun, and I'm a third year undergraduate student at Georgia Tech studying CS. My concentrations are Systems & Architecture and Modelling & Simulation.
 
 I use my GitHub to share projects, notes, and exercises I've worked on.
 
