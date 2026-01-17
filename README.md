@@ -11,4 +11,3 @@ I use my GitHub to share projects, notes, and exercises I've worked on.
 - **GT Email**: [adulam3@gatech.edu](mailto:adulam3@gatech.edu)  
 - **Personal Email**: [arjunkumardulam@gmail.com](mailto:arjunkumardulam@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/adulam](https://www.linkedin.com/in/adulam)  
-- **LeetCode**: [leetcode.com/u/adulam](https://leetcode.com/u/adulam)  
